@@ -1,4 +1,3 @@
-# Naviotech-Minor-Project
 
 #  Stock Price Predictor
 
