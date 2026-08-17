@@ -1,6 +1,6 @@
 # Naviotech-Minor-Project
 
-# AI Stock Price Predictor
+#  Stock Price Predictor
 
 THE MODEL HAS TO BE TRAINED ON THE STOCK TO BE ABLE TO PREDICT THE NEXT TRADING DAY CLOSE
 
